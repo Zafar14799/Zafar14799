@@ -31,3 +31,5 @@ Focusing on highly available infrastructure, cloud automation, and enterprise co
 </p>
 
 👁️ **Profile Views:** ![Views](https://komarev.com/ghvc/?username=YOUR-USERNAME&color=blue&style=flat-square)
+
+![GitHub Snake Navigation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-snake.svg)
