@@ -25,8 +25,8 @@ Focusing on highly available infrastructure, cloud automation, and enterprise co
 
 ### 📊 Git Metrics
 
-![GitHub Snake Navigation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-snake.svg)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zafar14799&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zafar14799&layout=compact&theme=radical)
 
-
-👁️ **Profile Views:** ![Views](https://komarev.com/ghvc/?username=YOUR-USERNAME&color=blue&style=flat-square)
-
+### ⚡ Fun Fact
+I spend way too much time  Watching Formula1, Watching movies, Playing games.
