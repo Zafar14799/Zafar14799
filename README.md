@@ -25,11 +25,8 @@ Focusing on highly available infrastructure, cloud automation, and enterprise co
 
 ### 📊 Git Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial&count_private=true" alt="Zafar's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial" alt="Top Languages" height="180px"/>
-</p>
+![GitHub Snake Navigation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-snake.svg)
+
 
 👁️ **Profile Views:** ![Views](https://komarev.com/ghvc/?username=YOUR-USERNAME&color=blue&style=flat-square)
 
-![GitHub Snake Navigation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-snake.svg)
