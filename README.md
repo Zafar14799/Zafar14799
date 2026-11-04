@@ -1,33 +1,95 @@
-# Hi there, I'm Zafar! 👋
+<div align="center">
 
-### 🚀 DevOps Engineer
-Focusing on highly available infrastructure, cloud automation, and enterprise container orchestration.
+# Hi there, I'm Zafar 👋
+### Mohammed Zafruddin | Full Stack Developer & Cloud Engineer
 
-- 🔭 I’m currently working on automating enterprise cluster deployments and infrastructure scaling.
-- ⚙️ I spend my time with: **OpenShift/Kubernetes, AWS, Infrastructure as Code (Terraform), and Linux Internals**.
-- 💬 Ask me about: **High availability, CI/CD pipelines, container security, and performance troubleshooting**.
-- ⚡ Fun fact: I enjoy diving deep into kernel performance metrics (`top`, `ps`, `strace`) to hunt down zombie processes.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Building+modern+Flutter+apps;Crafting+Next.js+%26+React+web+platforms;Scaling+backends+with+Node.js;Deploying+on+GCP+%26+Red+Hat+OpenShift)](https://github.com/Zafar14799)
 
-### 🛠️ Tech Stack & Tools
+[![Profile Views](https://komarev.com/ghpvc/?username=Zafar14799&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Zafar14799)
 
-**Cloud & Container Orchestration**
-![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  </a>
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="Red Hat OpenShift" />
+  </a>
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+</p>
 
-**Linux & Automation**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-### 📊 Git Metrics
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zafar14799&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zafar14799&layout=compact&theme=radical)
+## 👨‍💻 About Me
 
-### ⚡ Fun Fact
-I spend way too much time  Watching Formula1, Watching movies, Playing games.
+- 🔭 **Currently Building**: **[VeloByte](https://github.com/Zafar14799)** – A next-gen internet speed & network telemetry benchmark tool with animated radial SVG gauges.
+- 📱 **Mobile Development**: Experienced in cross-platform **Flutter & Dart** crafting high-performance mobile UI.
+- 🌐 **Web & Full Stack**: Building reactive frontends with **Next.js 14, React, TypeScript & Tailwind CSS**, with scalable backends in **Node.js & Express**.
+- ☁️ **Cloud & DevOps**: Deploying containerized microservices via **Docker, Red Hat OpenShift, Nginx & Google Cloud Platform (GCP)**.
+- 💬 **Ask me about**: Flutter architecture, state management, REST APIs, and modern frontend telemetry.
+
+---
+
+## ⚡ Featured Project: VeloByte
+
+> **A real-time network telemetry & internet speed test suite** featuring animated SVG radial gauges, multi-stream ping/jitter diagnostics, and minimal latency web workers.
+
+- **Stack**: Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Web Workers.
+- **Key Features**: Radial speedometer gauge, real-time download/upload calculation, ping and jitter graphs.
+- 🔗 **Explore Repository**: [github.com/Zafar14799](https://github.com/Zafar14799)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📱 Frontend & Mobile
+```text
+Flutter  •  Dart  •  Next.js  •  React  •  TypeScript  •  JavaScript  •  Tailwind CSS  •  HTML5/CSS3
+```
+
+### ⚙️ Backend & Databases
+```text
+Node.js  •  Express.js  •  PostgreSQL  •  MongoDB  •  Firebase  •  RESTful APIs
+```
+
+### ☁️ Cloud, DevOps & Tools
+```text
+Google Cloud (GCP)  •  Red Hat OpenShift  •  Docker  •  Nginx  •  Git & GitHub  •  Linux  •  Postman
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zafar14799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafar14799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Zafar14799">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zafar14799@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
